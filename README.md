@@ -17,7 +17,6 @@
 - `NonNeuralReferenceModels.ipynb`
 ### BERT
 - `BERT_final.ipynb`
-- `DustinBERTModel.ipynb`
 - `CodyBert.ipynb`
 ### CNN
 - `CNN-Balanced.ipynb`
@@ -37,6 +36,4 @@
 - `ModelConfidenceAnalysis.ipynb`
 - `ensembleModel_ruleBased.ipynb`
 # Archive Folder
-- `yelp_data_sample_down.ipynb`
-- `yelp_data_sample_down_balanced.ipynb`
-- `yelp_data_sample_down_train_test_split.ipynb`
+## Older working files not needed in final report
