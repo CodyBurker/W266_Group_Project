@@ -1,6 +1,5 @@
-
 # Data
-## Raw Yelp Data
+## Raw Yelp Data (used to train/test reference and base models)
 ### Train Set 1 (80,000 examples)
 - `x_train_stage_1_sampled_yelp_data.csv`
 - `y_train_stage_1_sampled_yelp_data.csv`
