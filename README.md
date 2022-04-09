@@ -11,8 +11,10 @@
 - `y_test_sampled_yelp_data_NEW.csv`
 ## Processed Data (used to train/test ensemble models)
 ### BERT Predictions
-- `BERT_Confidence_Predictions_80k_Stage_2.csv` (train)
-- `BERT_X_Test_Confidence_Predictions.csv` (test)
+- `BERT_Confidence_Predictions_80k_Stage_2.csv` (train with confidences)
+- `BERT_X_Test_Confidence_Predictions.csv` (test with confidences)
+- `BERT_Predictions_80k_stage_2_1_to_5.csv` (train without confidences)
+- `BERT_X_Test_Predictions_1_to_5.csv` (test without confidences)
 ### CNN Predictions
 - `CNN_Confidence_x_train_stage_2_sampled_yelp_data.csv` (train)
 - `CNN_Confidence_x_test_sampled_yelp_data_NEW.csv` (test)
