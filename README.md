@@ -12,9 +12,9 @@
 # Notebooks
 ## Data Wrangling
 - `yelp_data_sample_down_train_test_split_NEW.ipynb`
-## Base Models
-### Baseline Models
+## Reference Models
 - `NonNeuralReferenceModels.ipynb`
+## Base Models
 ### BERT
 - `BERT_final.ipynb`
 - `CodyBert.ipynb`
