@@ -10,6 +10,16 @@
 ### Test Set (20,000 examples)
 - `x_test_sampled_yelp_data_NEW.csv`
 - `y_test_sampled_yelp_data_NEW.csv`
+## Processed Data (Predictions from Base Models)
+### BERT Predictions
+- `BERT_Confidence_Predictions_80k_Stage_2.csv` (train)
+- `BERT_X_Test_Confidence_Predictions.csv` (test)
+### CNN Predictions
+- `CNN_Confidence_x_train_stage_2_sampled_yelp_data.csv` (train)
+- `CNN_Confidence_x_test_sampled_yelp_data_NEW.csv` (test)
+### T5 Predictions
+- `t5_Predictions.csv` (train)
+- `t5_Predictions_test20k.csv` (test)
 # Notebooks
 ## Data Wrangling
 - `yelp_data_sample_down_train_test_split_NEW.ipynb`
