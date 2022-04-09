@@ -10,7 +10,8 @@
 ### Test Set (20,000 examples)
 - `x_test_sampled_yelp_data_NEW.csv`
 - `y_test_sampled_yelp_data_NEW.csv`
-## Processed Data (used to train/test ensemble models)
+## Processed Data 
+*Used to train/test ensemble models*
 ### BERT Predictions
 - `BERT_Confidence_Predictions_80k_Stage_2.csv` (train with confidences)
 - `BERT_X_Test_Confidence_Predictions.csv` (test with confidences)
