@@ -31,20 +31,16 @@
 ## Base Models
 ### BERT
 - `BERT_final.ipynb`
-- `CodyBert.ipynb`
 ### CNN
+- `CNN_Model.ipynb`
 - `CNN-Balanced.ipynb`
 - `CNN-word2vec.ipynb`
 - `CNN_Confidence_Predictions.ipynb`
 - `CNN_Predictions.ipynb` 
-- `CodyCNNAnalysis.ipynb`
-- `CodyCNNAnalysis2.ipynb`
 ### T5
 - `t5_final.ipynb`
 ## Ensemble Models
-- `CodyStack.ipynb`
 - `Cody_Ensembles.ipynb`
-- `Cody_Entropy.ipynb`
 - `EnsembleDecisionTree.ipynb`
 - `EnsembleLogisticRegression.ipynb`
 - `ModelConfidenceAnalysis.ipynb`
