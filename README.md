@@ -1,3 +1,5 @@
+# Report
+[w266 Final Paper Burker Cox Suryanaga.pdf](w266%20Final%20Paper%20Burker%20Cox%20Suryanaga.pdf)
 # Data
 ## Raw Yelp Data 
 *Used to train/test reference and base models*
